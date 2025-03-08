@@ -56,7 +56,7 @@ document.addEventListener("DOMContentLoaded", () => {
   
     // Define positions for each section
     const positions = {
-      home: { x: 0, y: 1.6, z: 0 },
+      home: { x: 0, y: 0, z: -5 },
       about: { x: -6, y: 1.6, z: -3 },
       projects: { x: 0, y: 0, z: -12 },
       contact: { x: 6, y: 1.6, z: -3 },
